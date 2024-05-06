@@ -1,5 +1,5 @@
-# 5a_Create_Socket_for_HTTP_for_webpage_upload_
-# and_download
+# 5a_Create_Socket_for_HTTP_for_webpage
+# _upload_and_download
 ## NAME : SANJAY.C
 ## REGISTER NUMBER : 212223240150
 ## AIM :
